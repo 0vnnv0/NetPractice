@@ -11,3 +11,22 @@ This project is about solving networking problems to make a network run. There a
 - Work with Routers & Switches: Understand their roles in directing network traffic and connecting devices.
 - Set up Routing Tables: Define paths for data packets between networks using next-hop addresses.
 - By the end of this project, you’ll have a practical understanding of TCP/IP networking and the ability to troubleshoot and configure basic network setups.
+
+
+## 🌐 Solving the Project
+- Understanding the Interface:
+- NetPractice is a browser-based training platform. Each level presents a broken network diagram that must be configured to meet specific goals.
+
+- Solving Levels:
+
+- Configure devices (routers, switches, and hosts) by assigning appropriate IP addresses and subnet masks.
+- Adjust routing tables to ensure data packets flow correctly between networks.
+- Use logs to troubleshoot and verify configurations.
+- Progressive Learning:
+- The project consists of 10 levels, each introducing new challenges:
+
+- Level 1-3: Focus on basic IP addressing and subnetting.
+- Level 4-6: Introduce routing concepts and connecting multiple networks.
+- Level 7-10: Combine subnetting, routing, and advanced concepts like overlapping ranges and internet connections.
+- Simulating Real Networks:
+- While the networks in NetPractice are virtual, the configurations mimic real-world scenarios, making it an ideal tool for learning and practicing networking fundamentals.
